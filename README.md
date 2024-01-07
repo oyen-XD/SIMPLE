@@ -66,7 +66,7 @@ $ python run.py
 
 ### Let's connect!
 <p>
-    <a href="https://LuciverXploit.id" target="blank"><img src="https://img.shields.io/badge/Website-https://luciverxploit.com-green?" /></a>
+    <a href="https://oyen-XD.id" target="blank"><img src="https://img.shields.io/badge/Website-https://oyen-XD.com-green?" /></a>
     <a href="https://linkedin.luciverxploit.com" target="blank"><img src="https://img.shields.io/badge/LuciverXploit-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@oyen-XD" target="blank"><img src="https://img.shields.io/badge/LuciverXploit-30302f?style=flat&logo=medium" /></a>
     <a href="https://tw.luciverxploit.com" target="blank"><img src="https://img.shields.io/badge/@arimarshello_reall-30302f?style=flat&logo=twitter" /></a>
