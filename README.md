@@ -63,7 +63,7 @@ $ git pull
 $ python run.py
 
 ### Screenshot:
-![image.png]( {[link gambar](https://github.com/oyen-XD/Premiumv2/blob/main/Screenshot_20240107_124843.jpg)https://github.com/oyen-XD/Premiumv2/blob/main/Screenshot_20240107_124843.jpg} )
+![image.png]( {[https://github.com/oyen-XD/Premiumv2/blob/main/Screenshot_20240107_124843.jpg]
 
 </p>
 
