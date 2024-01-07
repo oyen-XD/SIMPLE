@@ -63,8 +63,9 @@ $ git pull
 $ python run.py
 
 ### Screenshot:
-![image.png]( {[https://github.com/oyen-XD/Premiumv2/blob/main/Screenshot_20240107_124843.jpg]
-
+<img src="https://raw.githubusercontent.com/oyen-XD/Premiumv2/main/Screenshot_20240107_124732.jpg.jpg?token=GHSAT0AAAAAACLKZGDNOCIKGKIAJ54U5WPGZMABRYA" width=100% height=90%>
+<p align="left">
+  <img src="https://img.shields.io/badge/Author-oyen-XD-blue?style=flat-square">
 </p>
 
 Wanna Hire Me ? 
